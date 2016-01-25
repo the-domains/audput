@@ -1,0 +1,14 @@
+layout_spectrum: 0.5612245
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.8259792
+  brandColors:
+    - '#030302'
+    - '#4B4B4A'
+    - '#CF9115'
+    - '#F4CF6C'
+    - '#FFFFFF'
+  rhythmicContrast: 0.6014392
+typography_spectrum: 0.3045112
+name: AUDPUT
