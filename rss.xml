@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AUDPUT]]></title>
         <description><![CDATA[AUDPUT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/audput/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 12:20:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 12:39:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/audput/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Waves Release Nx - A Virtual Mix Room Over Headphones Plug-in With 50% Off Launch Price]]></title>
+            <description><![CDATA[<article><h1>Waves Release Nx - A Virtual Mix Room Over Headphones Plug-in With 50% Off Launch Price</h1><p>We announced the new Waves Nx plug-in as NAMM started and then we had a James Ivey lost for words moment when he heard Waves Nx fro himself at NAMM 2016 and now you can try it for yourself and buy it at half the normal price at $49.</p><img src="http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/56aa862ea976af1159293316/1454016066625/?format=1000w"></article>]]></description>
+            <link>http://www.pro-tools-expert.com/home-page/2016/1/28/waves-release-nx-a-virtual-mix-room-over-headphones-plug-in-with-50-off-launch-price</link>
+            <guid isPermaLink="false">f37d6372-e0ba-4ba7-a298-e42fec326e80</guid>
+            <pubDate>Sat, 30 Jan 2016 12:38:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2161266-70a1-4ac6-a83e-40eb995bae15.jpg">]]></description>
-            <link>undefined393dc211-1f8c-4e82-90a0-b9f5429da537/index.html</link>
+            <link>https://thegrid.ai/audput/393dc211-1f8c-4e82-90a0-b9f5429da537/index.html</link>
             <guid isPermaLink="false">393dc211-1f8c-4e82-90a0-b9f5429da537</guid>
             <pubDate>Sat, 30 Jan 2016 12:19:11 GMT</pubDate>
         </item>
